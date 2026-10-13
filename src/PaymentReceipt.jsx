@@ -60,7 +60,7 @@ const PaymentReceipt = () => {
         <div className="text-center mt-12">
           <h1 className="text-3xl font-bold text-[#172b4d]">Rs. {amount}</h1>
           <p className="text-sm mt-2">
-            Amjad Hayat to{" "}
+            Anwar Khalid to{" "}
             <p className="font-semibold">{recipientName}</p>
           </p>
           <p className="text-xs text-[#7a869a] mt-2 flex items-center justify-center">
